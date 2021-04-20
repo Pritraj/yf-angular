@@ -6,6 +6,16 @@
   font-size: 4em;
 }
 
+a {
+    display: block;
+    text-decoration: none;
+}
+
+.row { 
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
    
 // .y-cloud:before {
 //     content: "\f0c2";  /* this is your text. You can also use UTF-8 character codes as I do here */
