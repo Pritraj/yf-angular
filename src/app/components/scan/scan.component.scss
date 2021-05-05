@@ -1,0 +1,23 @@
+.form-control {
+    border-color: goldenrod;
+}
+
+.btn-default,
+.btn-default.active:focus, 
+.btn-default.active:hover, 
+.btn-default:active:focus, 
+.dropdown-toggle.btn-default.focus, 
+.dropdown-toggle.btn-default:focus, 
+.dropdown-toggle.btn-default:hover {
+    border-color: goldenrod !important;
+}
+
+.btn .caret {
+    float: right !important;
+    margin-top: 10px !important;
+}
+
+
+.d-flex {
+    background-image: url("assets/cloud.svg");
+}

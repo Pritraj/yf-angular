@@ -1,0 +1,36 @@
+.form-control {
+  border-color: goldenrod;
+}
+
+.btn-default,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default:active:focus,
+.dropdown-toggle.btn-default.focus,
+.dropdown-toggle.btn-default:focus,
+.dropdown-toggle.btn-default:hover {
+  border-color: goldenrod !important;
+}
+
+.btn .caret {
+  float: right !important;
+  margin-top: 10px !important;
+}
+
+.y-preview {
+//   margin-top: 30px;
+  background-color: lightgoldenrodyellow;
+  padding: 55px;
+  padding-left: 20px;
+  border-radius: 10px;
+  font-size: 1em;
+}
+
+.list-group-item {
+  border: 1px solid goldenrod;
+}
+
+.row {
+  padding: 0 !important;
+  margin: 0 !important;
+}
