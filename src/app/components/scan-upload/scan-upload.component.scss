@@ -16,14 +16,8 @@ a {
     margin: 0 !important;
 }
 
-   
-// .y-cloud:before {
-//     content: "\f0c2";  /* this is your text. You can also use UTF-8 character codes as I do here */
-//     font-family: FontAwesome;
-//     top: -2000px;
-//     font-size: 80vh;
-//     position:absolute;
-//     opacity: 0.2;
-//     color: skyblue;
-//     top:0;
-//  }
+.d-flex {
+  height: 100vh;
+  background-image: url("/assets/cloud.svg");
+  background-size: cover;
+}

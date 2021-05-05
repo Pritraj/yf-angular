@@ -19,5 +19,7 @@
 
 
 .d-flex {
-    background-image: url("assets/cloud.svg");
+    height: 100vh;
+    background-image: url("/assets/cloud.svg");
+    background-size: cover;
 }
