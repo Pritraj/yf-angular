@@ -1,9 +1,9 @@
 .y-card {
-  background-color: lightgoldenrodyellow;
+  background-color: rgba(247, 247, 155, 0.651);
   padding: 100px;
   text-align: center;
   border-radius: 20px;
-  font-size: 4em;
+  font-size: 3em;
 }
 
 a {
@@ -17,7 +17,7 @@ a {
 }
 
 .d-flex {
-  background-image: url("/assets/cloud.svg");
+  background-image: url("../assets/body-bg.jpg");
   background-size: contain;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 }
